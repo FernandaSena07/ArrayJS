@@ -6,5 +6,5 @@ function apresentar(){
    while(nome.length <3){
      alert("Você não digitiou um nome válido!")
     nome = prompt("Digite um nome");
-  } alert("Olá " + nome)
+  } alert("Olá " + nome+"! ")
  }
